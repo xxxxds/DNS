@@ -63,6 +63,7 @@
                 <version>3.1.0</version>
                 <configuration>
                     <mainClass>com.dns.Main</mainClass>
+                    <commandlineArgs>-Dfile.encoding=UTF-8</commandlineArgs>
                 </configuration>
             </plugin>
         </plugins>

@@ -36,6 +36,10 @@ DNS/
 ```bash
 mvn compile
 ```
+### 终端乱码解决
+```bash
+chcp 65001
+```
 
 ### 运行项目
 ```bash
