@@ -6,7 +6,7 @@
 
 ## 技术栈
 
-- Java 17
+- Java 21
 - Maven 3.x
 - JUnit 5
 
@@ -72,7 +72,7 @@ mvn clean compile test package
 
 本项目使用Maven进行依赖管理和构建，所有操作都通过Maven命令完成：
 
-1. 开发环境要求：Java 17+
+1. 开发环境要求：Java 21+
 2. 构建工具：Maven 3.x
 3. 测试框架：JUnit 5
 4. 编码规范：UTF-8
