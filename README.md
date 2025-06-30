@@ -80,7 +80,7 @@ mvn clean compile test package
 2. 构建工具：Maven 3.x
 3. 测试框架：JUnit 5
 4. 编码规范：UTF-8
-5. 开发在dev分支进行，master分支为稳定版本
+5. 开发在dev分支进行，main分支为稳定版本
 
 ## 贡献指南
 
